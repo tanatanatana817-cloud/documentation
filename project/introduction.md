@@ -35,5 +35,5 @@ and there are plenty more games available provided by the community. Some of the
 ## Responsible Disclosure
 Pterodactyl is completely open-source, and as such completely open to independent users and auditors to browse our
 code base and hunt for security issues. If you come across anything that raises red flags for you, please do not 
-hesitate to reach out directly to `support@pterodactyl.io`. We ask that you please be responsible when disclosing
+hesitate to reach out directly to `tanatanatana817@gmail.com` We ask that you please be
 any security concerns and _do not_ report them on our public facing bug tracker.
